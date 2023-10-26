@@ -1,6 +1,6 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://expo-fgv-curso.vercel.app/4/manifest.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "id": "https://expo-fgv-curso.vercel.app/4/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -51,7 +51,7 @@
     },
     "thumbnail": [
         {
-            "id": "http://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/300,200/0/default.jpg",
+            "id": "https://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/300,200/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 200,
@@ -71,31 +71,31 @@
     ],
     "items": [
         {
-            "id": "http://expo-fgv-curso.vercel.app/4/canvas/0",
+            "id": "https://expo-fgv-curso.vercel.app/4/canvas/0",
             "type": "Canvas",
             "height": 1600,
             "width": 2400,
             "items": [
                 {
-                    "id": "http://expo-fgv-curso.vercel.app/4/canvas/0/annotation-page",
+                    "id": "https://expo-fgv-curso.vercel.app/4/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://expo-fgv-curso.vercel.app/4/annotation/0",
+                            "id": "https://expo-fgv-curso.vercel.app/4/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://expo-fgv-curso.vercel.app/4/canvas/0",
+                            "target": "https://expo-fgv-curso.vercel.app/4/canvas/0",
                             "body": {
-                                "id": "http://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/2000,1333/0/default.jpg",
+                                "id": "https://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/2000,1333/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0",
+                                        "id": "https://expo-fgv-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "https://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -105,31 +105,31 @@
             ]
         },
         {
-            "id": "http://expo-fgv-curso.vercel.app/4/canvas/1",
+            "id": "https://expo-fgv-curso.vercel.app/4/canvas/1",
             "type": "Canvas",
             "height": 1000,
             "width": 1500,
             "items": [
                 {
-                    "id": "http://expo-fgv-curso.vercel.app/4/canvas/1/annotation-page",
+                    "id": "https://expo-fgv-curso.vercel.app/4/canvas/1/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://expo-fgv-curso.vercel.app/4/annotation/1",
+                            "id": "https://expo-fgv-curso.vercel.app/4/annotation/1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://expo-fgv-curso.vercel.app/4/canvas/1",
+                            "target": "https://expo-fgv-curso.vercel.app/4/canvas/1",
                             "body": {
-                                "id": "http://expo-fgv-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80/full/2000,1333/0/default.webp",
+                                "id": "https://expo-fgv-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80/full/2000,1333/0/default.webp",
                                 "type": "Image",
                                 "format": "image/webp",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://expo-fgv-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80",
+                                        "id": "https://expo-fgv-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "https://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }

@@ -1,9 +1,9 @@
 {
-  "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://expo-fgv-curso.vercel.app/7/e5f0558506582d3564fd73448c103376",
+  "@context": "https://iiif.io/api/image/3/context.json",
+  "id": "https://expo-fgv-curso.vercel.app/7/e5f0558506582d3564fd73448c103376",
   "type": "ImageService3",
   "profile": "level0",
-  "protocol": "http://iiif.io/api/image",
+  "protocol": "https://iiif.io/api/image",
   "tiles": [
     {
       "scaleFactors": [
