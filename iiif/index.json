@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://Expo-FGV-curso.vercel.app/index.json",
+    "id": "http://expo-fgv-curso.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "http://Expo-FGV-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b/full/200,300/0/default.webp",
+            "id": "http://expo-fgv-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b/full/200,300/0/default.webp",
             "type": "Image",
             "format": "image/webp",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "http://Expo-FGV-curso.vercel.app/6/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/6/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/3/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/7/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/7/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/8/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/4/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/4/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/1/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "http://Expo-FGV-curso.vercel.app/5/manifest.json",
+            "id": "http://expo-fgv-curso.vercel.app/5/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

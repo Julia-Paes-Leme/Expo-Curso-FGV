@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://Expo-FGV-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80",
+  "id": "http://expo-fgv-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
