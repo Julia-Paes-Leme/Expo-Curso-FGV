@@ -1,0 +1,142 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://Expo-FGV-curso.vercel.app/4/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "#8"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Jonas Arrabal"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2023"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Chumbo e aço"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Galeria Athena"
+    },
+    "thumbnail": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/4/canvas/0",
+            "type": "Canvas",
+            "height": 1600,
+            "width": 2400,
+            "items": [
+                {
+                    "id": "http://Expo-FGV-curso.vercel.app/4/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://Expo-FGV-curso.vercel.app/4/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://Expo-FGV-curso.vercel.app/4/canvas/0",
+                            "body": {
+                                "id": "http://Expo-FGV-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0/full/2000,1333/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1333,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "http://Expo-FGV-curso.vercel.app/4/a072bd737d067559aa4db8796f1010b0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/4/canvas/1",
+            "type": "Canvas",
+            "height": 1000,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "http://Expo-FGV-curso.vercel.app/4/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://Expo-FGV-curso.vercel.app/4/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://Expo-FGV-curso.vercel.app/4/canvas/1",
+                            "body": {
+                                "id": "http://Expo-FGV-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80/full/2000,1333/0/default.webp",
+                                "type": "Image",
+                                "format": "image/webp",
+                                "height": 1333,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "http://Expo-FGV-curso.vercel.app/4/13a9f4f30640bd414cbaf3becc788e80",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

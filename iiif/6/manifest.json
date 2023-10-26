@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://Expo-FGV-curso.vercel.app/6/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "\"14º04'28\"S 38º57'18″W"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Jonas Arrabal"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Acrílico, sal extraído da água do mar, resina e pigmento"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Galeria Athena"
+    },
+    "thumbnail": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b/full/200,300/0/default.webp",
+            "type": "Image",
+            "format": "image/webp",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/6/canvas/0",
+            "type": "Canvas",
+            "height": 1024,
+            "width": 683,
+            "items": [
+                {
+                    "id": "http://Expo-FGV-curso.vercel.app/6/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://Expo-FGV-curso.vercel.app/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://Expo-FGV-curso.vercel.app/6/canvas/0",
+                            "body": {
+                                "id": "http://Expo-FGV-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b/full/1334,2000/0/default.webp",
+                                "type": "Image",
+                                "format": "image/webp",
+                                "height": 2000,
+                                "width": 1334,
+                                "service": [
+                                    {
+                                        "id": "http://Expo-FGV-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

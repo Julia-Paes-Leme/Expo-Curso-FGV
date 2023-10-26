@@ -1,0 +1,84 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://Expo-FGV-curso.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Exposição Teste (curso FGV)"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/6/cbb184af1d8a7efce541eb39199a961b/full/200,300/0/default.webp",
+            "type": "Image",
+            "format": "image/webp",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "\"14º04'28\"S 38º57'18″W"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "#1"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "#14"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "#3"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "#8"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ensaio sobre uma duna"
+                ]
+            }
+        },
+        {
+            "id": "http://Expo-FGV-curso.vercel.app/5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Riomaggiore #2, Deep blue"
+                ]
+            }
+        }
+    ]
+}
