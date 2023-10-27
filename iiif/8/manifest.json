@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://expo-fgv-curso.vercel.app/8/manifest.json",
     "type": "Manifest",
     "label": {
@@ -95,7 +95,7 @@
                                     {
                                         "id": "https://expo-fgv-curso.vercel.app/8/df29de97e58b494b7655f46c0b814760",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }

@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://expo-fgv-curso.vercel.app/1/manifest.json",
     "type": "Manifest",
     "label": {
@@ -95,7 +95,7 @@
                                     {
                                         "id": "https://expo-fgv-curso.vercel.app/1/81ee923a5091eb6854ea39b7a4290647",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -129,7 +129,7 @@
                                     {
                                         "id": "https://expo-fgv-curso.vercel.app/1/1b8b1abe45eac7fe19f1b975ee3d0905",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
